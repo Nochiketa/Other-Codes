@@ -23,3 +23,11 @@ public class problem7 {
 		System.out.println("The largest number is "+largest);
 	}
 }
+
+/*
+Enter 10 numbers 
+
+66 44 33 22 32 74 10 89 36 64 
+The largest number is 89
+
+*/
